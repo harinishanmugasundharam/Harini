@@ -1,4 +1,4 @@
-# Project Title: Sentiment Analysis for Marketing
+koi# Project Title: Sentiment Analysis for Marketing
 
 ## Project Description
 
@@ -183,8 +183,9 @@ Before getting started, ensure you have the following dependencies installed:
   - scikit-learn
   - [Transformers](https://huggingface.co/transformers/installation.html) library for fine-tuning pre-trained models.
 
+ 
 You can install these libraries using the Python package manager pip:
-    pip install pandas numpy 
 
-```staying competitive and satisfying their customers.
+```bash
+pip install pandas numpy nltk spacy scikit-learn transformers
  
