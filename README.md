@@ -1,4 +1,4 @@
-koi# Project Title: Sentiment Analysis for Marketing
+# Project Title: Sentiment Analysis for Marketing
 
 ## Project Description
 
