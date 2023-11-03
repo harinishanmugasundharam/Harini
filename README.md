@@ -184,7 +184,7 @@ Before getting started, ensure you have the following dependencies installed:
   - [Transformers](https://huggingface.co/transformers/installation.html) library for fine-tuning pre-trained models.
 
 You can install these libraries using the Python package manager pip:
-pip install pandas numpy nltk spacy scikit-learn transformers
+    pip install pandas numpy 
 
 ```staying competitive and satisfying their customers.
  
